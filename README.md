@@ -1,3 +1,2 @@
 # Unlox_GymProject
-
-# Project to be Completed
+Project to be Completed
